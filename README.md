@@ -1,5 +1,4 @@
-# README
-Hello World! 
+# Hello World!
 
 *Studying for a Computer Engineering Degree at Clemson University 
 
