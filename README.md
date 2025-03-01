@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm Joshua Silva and I'm a student at Clemson University
+I'm Joshua Silva & currently attending Clemson University
 
   * Studying for a Computer Engineering Degree
 
