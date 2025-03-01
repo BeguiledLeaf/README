@@ -2,8 +2,8 @@
 
 I'm Joshua Silva and I'm a student at Clemson University
 
-  *Studying for a Computer Engineering Degree
+  * Studying for a Computer Engineering Degree
 
-  *Currently in Junior Year 
+  * Currently in Senior Year 
 
-  *Did a Co-op for a year for Bosch
+  * Did a Co-op for a year for Bosch
