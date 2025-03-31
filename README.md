@@ -6,6 +6,6 @@ I'm Joshua Silva
 
   * Currently in Senior Year, graduating in December 2025 :)
 
-  * Did a Co-op for a year for Bosch
+  * Did a Co-op for a year at Bosch
 
   * Have been an UGTA, or UnderGraduate Teacher's Assistant. Pretty much the assistant to the assistant.
